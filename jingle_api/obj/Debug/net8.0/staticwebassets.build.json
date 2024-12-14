@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4N1rptEiM+MwyzU/SyaSwxTjrq9glduHrtV4c5A5pJM=",
+  "Source": "jingle_api",
+  "BasePath": "_content/jingle_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

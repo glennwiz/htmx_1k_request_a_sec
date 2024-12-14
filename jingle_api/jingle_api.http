@@ -1,0 +1,6 @@
+@jingle_api_HostAddress = http://localhost:5162
+
+GET {{jingle_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
